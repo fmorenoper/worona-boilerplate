@@ -13,7 +13,7 @@ worona.log:start( { level = "INFO", reset_log = true, console = true, file = "lo
 -- WORONA CONFIGURATION
 worona.wp_url = "http://www.worona.org"
 worona.current_style = "flat-ui"
-worona.app_title = "Prueba"
+worona.app_title = "Worona Blog"
 worona.app_about_title = "App about title"
 worona.app_about_description = "This is where you can change the text shown in the \"about\" page. Yor text must not be longer than the screen size. Once the app has been built, and uploaded to the storest, you cannot change this text from the online control panel. If you wish to change it, you must change it here, and build and upload de app to the stores again. Thank you for using Worona!"
 
